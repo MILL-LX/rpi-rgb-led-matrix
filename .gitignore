@@ -4,3 +4,6 @@
 *.so
 .envrc
 .direnv
+*.egg-info
+*.egg
+examples-api-use/
